@@ -21,10 +21,13 @@ I am a **Data Analytics Consultant** with experience across multiple industries,
 
 ---
 
-## Tools & Technologies
-**Data Analytics & Visualization:** Tableau, Tableau Prep, Power BI, Power Query, Alteryx, SQL, SQL Server, Snowflake  
-**Data Management:** Data warehousing, data cleaning, ETL processes  
-**Other:** Excel, Python (for data tasks), Data Storytelling and Design  
+## Certifications
+- [Tableau Certified Data Analyst](https://www.credly.com/badges/3859921b-b281-4d58-b7d8-d006056f6445/linked_in_profile) 
+- [Snowflake Hands On Essentials: Data Warehouse](https://achieve.snowflake.com/4532b8c1-581a-4605-a84f-84ef7d151969#acc.f6ZsTkPh)  
+- [Alteryx Designer Advanced](https://www.credly.com/badges/dace5aec-ddaf-4bb1-983e-03b496abc9a1/linked_in_profile)  
+- [Alteryx Designer Core](https://www.credly.com/badges/b4f52697-b999-47bd-ba4a-e76f23ceea89/linked_in_profile)   
+- [SQL Advanced (HackerRank)](https://www.hackerrank.com/certificates/df880b6548e4)  
+- [SQL Intermediate (HackerRank)](https://www.hackerrank.com/certificates/iframe/194b08b2b79b)
 
 ---
 
