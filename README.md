@@ -29,9 +29,9 @@ I am a **Data Analytics Consultant** with experience across multiple industries,
 ---
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/aronaszilys/)  
-- [Tableau Public](https://public.tableau.com/app/profile/aronas.zilys/vizzes)  
+- [LinkedIn](https://www.linkedin.com/in/aronaszilys/)   
 - [The Data School Profile](https://www.thedataschool.co.uk/blog/aronas-zilys/)  
-- [Tableau Certified Data Analyst Badge](https://www.credly.com/badges/3859921b-b281-4d58-b7d8-d006056f6445/embedded)  
+
+
 
 
