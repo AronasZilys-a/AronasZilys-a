@@ -5,7 +5,7 @@ I am a **Data Analytics Consultant** with experience across multiple industries,
 ---
 
 ## About Me
-- 🎓 BA in Business Management | MSc in Digital Analytics and Marketing  
+- 🎓 **BA** Business Management | **MSc** Digital Analytics and Marketing  
 - 💻 Skilled in **Alteryx, Tableau, Power BI, SQL**  
 - 📊 Experienced in **data warehousing, data cleaning and preparation, querying, dashboarding, and visualization**  
 - 🤝 Worked across **education, retail, transport, and defense industries**, and delivered **Tableau training to non-data professionals**    
